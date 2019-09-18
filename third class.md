@@ -81,7 +81,7 @@ order.
 
 > Example for lnteger literals
 
-<img src="/Users/yunho/Documents/C/2nd term/DKU-review/Capture/Third Class/Integer literals1.png" alt="Integer literals1" style="zoom:67%;" />
+<img src="./Capture/Third Class/Integer literals1.png" alt="Integer literals1" style="zoom:67%;" />
 
 
 
