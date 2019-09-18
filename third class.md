@@ -170,7 +170,7 @@ int main(void) {
 
 > Arithmetic operator
 
-![Arithmetic operator](/Users/yunho/Documents/C/2nd term/DKU-review/Capture/Third Class/Arithmetic operator.png)
+![Arithmetic operator](./Capture/Third Class/Arithmetic operator.png)
 
 ```c
 int a = 100, b =23;
@@ -219,11 +219,11 @@ int main(void){
 
 >Relational operator
 
-![Relational operator](/Users/yunho/Documents/C/2nd term/DKU-review/Capture/Third Class/Relational operator.png)
+![Relational operator](./Capture/Third Class/Relational operator.png)
 
 > Logical operator
 
-![Logical operator](/Users/yunho/Documents/C/2nd term/DKU-review/Capture/Third Class/Logical operator.png)
+![Logical operator](./Capture/Third Class/Logical operator.png)
 
 ```c
 int a=1, b=0;
@@ -240,27 +240,27 @@ c = !(a==b); //true
 
 > Example for c=a^b and c=~a
 
-![c=a^b](/Users/yunho/Documents/C/2nd term/DKU-review/Capture/Third Class/c=a^b.png)
+![c=a^b](./Capture/Third Class/c=a^b.png)
 
 
 
-![c = ~a](/Users/yunho/Documents/C/2nd term/DKU-review/Capture/Third Class/c = ~a.png)
+![c = ~a](./Capture/Third Class/c = ~a.png)
 
 > Assignment operator
 
-![Assignment operator1](/Users/yunho/Documents/C/2nd term/DKU-review/Capture/Third Class/Assignment operator1.png)
+![Assignment operator1](./Capture/Third Class/Assignment operator1.png)
 
 **(const)**
 
-![Assignment operator2](/Users/yunho/Documents/C/2nd term/DKU-review/Capture/Third Class/Assignment operator2.png)
+![Assignment operator2](./Capture/Third Class/Assignment operator2.png)
 
 
 
-![Assignment operator3](/Users/yunho/Documents/C/2nd term/DKU-review/Capture/Third Class/Assignment operator3.png)
+![Assignment operator3](./Capture/Third Class/Assignment operator3.png)
 
 > Operator precedence
 
-![Operator precedence](/Users/yunho/Documents/C/2nd term/DKU-review/Capture/Third Class/Operator precedence.png)
+![Operator precedence](./Capture/Third Class/Operator precedence.png)
 
 > Example of operator precedence
 
