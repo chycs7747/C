@@ -170,7 +170,7 @@ int main(void) {
 
 > Arithmetic operator
 
-![](Capture/Third Class/Arithmetic_operator.png)
+![](Capture/Third Class/Arithmetic operator.png)
 
 ```c
 int a = 100, b =23;
