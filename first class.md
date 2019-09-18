@@ -91,7 +91,7 @@ Standard library function to output formatted string on screen
 
 > Escape Sequence
 
-![escape sequence](/Users/yunho/Documents/C/2nd term/DKU-review/Capture/First Class/escape sequence.png)
+![escape sequence](./Capture/First Class/escape sequence.png)
 
 - \n : Newline (Line Feed)
 - \r : Carrige Return
@@ -148,7 +148,7 @@ int main(void)
 
 > C Programming Process
 
-![C programming process](/Users/yunho/Documents/C/2nd term/DKU-review/Capture/First Class/C programming process.png)
+![C programming process](./Capture/First Class/C programming process.png)
 
 - 1. Editor : Make source code file.
 - 2. Compile : Make object file.
@@ -161,7 +161,7 @@ int main(void)
 
 >Execution Process
 
-![Execution Process](/Users/yunho/Documents/C/2nd term/DKU-review/Capture/First Class/Execution Process.png)
+![Execution Process](./Capture/First Class/Execution Process.png)
 
 OS loader puts program in memory. HDD -> RAM : speed fast
 
@@ -181,7 +181,7 @@ Speed : (HDD < Flash Memory < RAM)
 
 > Coding Style
 
-![Coding Style](/Users/yunho/Documents/C/2nd term/DKU-review/Capture/First Class/Coding Style.png)
+![Coding Style](./Capture/First Class/Coding Style.png)
 
 If you enter the company, you may learn coding rules. It is vert important in team project.
 

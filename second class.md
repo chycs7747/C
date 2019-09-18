@@ -29,11 +29,11 @@ Computer only understand a binary number.
 
 > Unit of bytes
 
-![Unit of bytes1](/Users/yunho/Documents/C/2nd term/DKU-review/Capture/Second Class/Unit of bytes1.png)
+![Unit of bytes1](./Capture/Second Class/Unit of bytes1.png)
 
 
 
-![Unit of bytes2](/Users/yunho/Documents/C/2nd term/DKU-review/Capture/Second Class/Unit of bytes2.png)
+![Unit of bytes2](./Capture/Second Class/Unit of bytes2.png)
 
 
 
@@ -51,7 +51,7 @@ ex1) 00000101 == 5
 
 ex2)
 
-![Example of 2's complement](/Users/yunho/Documents/C/2nd term/DKU-review/Capture/Second Class/Example of 2's complement.png)
+![Example of 2's complement](./Capture/Second Class/Example of 2's complement.png)
 
 
 
@@ -99,11 +99,11 @@ if variable is not initialized, the variable contains garbage value.
 
 > Reserved Words
 
-![Reserved words](/Users/yunho/Documents/C/2nd term/DKU-review/Capture/Second Class/Reserved words.png)
+![Reserved words](./Capture/Second Class/Reserved words.png)
 
 > Example of variable naming
 
-![Example of variable naming](/Users/yunho/Documents/C/2nd term/DKU-review/Capture/Second Class/Example of variable naming.png)
+![Example of variable naming](./Capture/Second Class/Example of variable naming.png)
 
 
 
@@ -111,7 +111,7 @@ if variable is not initialized, the variable contains garbage value.
 
 > Fundamental data types
 
-![Fundamental data types](/Users/yunho/Documents/C/2nd term/DKU-review/Capture/Second Class/Fundamental data types.png)
+![Fundamental data types](./Capture/Second Class/Fundamental data types.png)
 
 
 
@@ -149,7 +149,7 @@ Integer type(char, int) data can represent 'character'.
 
 > The ASCII code (American Standard Code for Information Interchange)
 
-![ASCII code](/Users/yunho/Documents/C/2nd term/DKU-review/Capture/Second Class/ASCII code.png)
+![ASCII code](./Capture/Second Class/ASCII code.png)
 
 
 
@@ -169,5 +169,5 @@ printf("%c", i+3);
 
 >int data type
 
-![int data type](/Users/yunho/Documents/C/2nd term/DKU-review/Capture/Second Class/int data type.png)
+![int data type](./Capture/Second Class/int data type.png)
 
