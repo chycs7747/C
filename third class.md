@@ -81,7 +81,7 @@ order.
 
 > Example for lnteger literals
 
-<img src="./Capture/Third Class/Integer literals1.png" alt="Integer literals1" style="zoom:67%;" />
+![](./Capture/Third_Class/Integer_literals1.png)
 
 
 
@@ -89,7 +89,7 @@ order.
 
 
 
-<img src="./Capture/Third Class/Integer literals2.png" alt="Integer literals2" style="zoom:50%;" />
+![](./Capture/Third_Class/Integer_literals2.png)
 
 
 
@@ -170,7 +170,7 @@ int main(void) {
 
 > Arithmetic operator
 
-![](img/Arithmetic operator.png)
+![](./Capture/Third_Class/Arithmetic_operator.png)
 
 ```c
 int a = 100, b =23;
@@ -219,11 +219,11 @@ int main(void){
 
 >Relational operator
 
-![Relational operator](./Capture/Third Class/Relational operator.png)
+![Relational operator](./Capture/Third_Class/Relational_operator.png)
 
 > Logical operator
 
-![Logical operator](./Capture/Third Class/Logical operator.png)
+![Logical operator](./Capture/Third_Class/Logical_operator.png)
 
 ```c
 int a=1, b=0;
@@ -240,27 +240,27 @@ c = !(a==b); //true
 
 > Example for c=a^b and c=~a
 
-![c=a^b](./Capture/Third Class/c=a^b.png)
+![c=a^b](./Capture/Third_Class/c=a^b.png)
 
 
 
-![c = ~a](./Capture/Third Class/c = ~a.png)
+![c = ~a](./Capture/Third_Class/c=~a.png)
 
 > Assignment operator
 
-![Assignment operator1](./Capture/Third Class/Assignment operator1.png)
+![Assignment operator1](./Capture/Third_Class/Assignment_operator1.png)
 
 **(const)**
 
-![Assignment operator2](./Capture/Third Class/Assignment operator2.png)
+![Assignment operator2](./Capture/Third_Class/Assignment_operator2.png)
 
 
 
-![Assignment operator3](./Capture/Third Class/Assignment operator3.png)
+![Assignment operator3](./Capture/Third_Class/Assignment_operator3.png)
 
 > Operator precedence
 
-![Operator precedence](./Capture/Third Class/Operator precedence.png)
+![Operator precedence](./Capture/Third_Class/Operator_precedence.png)
 
 > Example of operator precedence
 
