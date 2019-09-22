@@ -8,7 +8,7 @@
 
 - **If expr is nonezero (true), then statement is executed; otherwise, statement is skipped.**
 
-![if_statement](./Capture/Fourth_Class/if_statement.png)
+<img src="./Capture/Fourth_Class/if_statement.png" alt="if_statement" style="zoom: 33%;" />
 
 ```c
 #include <stdio.h>
@@ -62,7 +62,7 @@ int main(void) {
 
 - **If expr is nonzero (ture), then statement1 is executed and statement2 is skipped; If expr is zero (false), then statement2 is executed.**
 
-![if_else_statement](./Capture/Fourth_Class/if_else_statement.png)
+<img src="./Capture/Fourth_Class/if_else_statement.png" alt="if_else_statement" style="zoom:33%;" />
 
 ```c
 #include <stdio.h>
@@ -97,7 +97,7 @@ int main(void) {
 
 - **If expr is nonzero (true), then statement is executed and control is passed back to the beginning of while loop. while loop executed repeatedly until expr is zero (false).**
 
-![while_statement](./Capture/Fourth_Class/while_statement.png)
+<img src="./Capture/Fourth_Class/while_statement.png" alt="while_statement" style="zoom:33%;" />
 
 ```c
 #include <stdio.h>
