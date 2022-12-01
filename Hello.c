@@ -1,7 +1,11 @@
 #include <stdio.h>
 
 int main(void){
-    printf("Hello, World!\n");
-    printf("Hello git world\n");
+    int a = 1;
+    a <<= 3;
+    int b = 1;
+    b <<= 1;
+    b <<=1;
+    b <<=1;
     return 0;
 }
