@@ -5,6 +5,8 @@
 int mod(int origin, int moduler);
 void printAll(char* encrypted_msg);
 
+
+
 int main(void) {
     char* initial_hash_value[8] = {"6A09E667F3BCC908",
     "BB67AE8584CAA73B"," 3C6EF372FE94F82B",
@@ -23,8 +25,10 @@ int main(void) {
 
     char message_bits_length = strlen(message)*8;
     int padding_bits_length = 0;
-    total_message[strlen(message)] = total_message[strlen(message)] | 0x10 ;
+    total_message[message_bits_length/8] = total_message[message_bits_length/8] | 0x10 ;
     total_message[127]= message_bits_length;
+
+
 
     //padding_bits_length = mod(896  - message_bits_length, 1024);
     //printf("message bytes: %d\npadding pytes: %d\nL: %d\n", message_bits_length/8,  padding_bits_length/8, 128/8);
